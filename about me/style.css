@@ -21,10 +21,10 @@ p {
     padding: 7pt;
 }
 
-button:active {
+/*button:active {
     background-color: #BC6C25;
     font-size: 14pt;
-}
+}*/
 
 .centered-text {
     text-align: center;
